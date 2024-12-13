@@ -1,3 +1,1 @@
-### Hi, I'm Saulo! 👋
-
-- 🌎 From Vitória, ES - Brazil
+![Metrics](/github-metrics.svg)
