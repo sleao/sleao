@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1222" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1238" class="">
     <defs>
         <style/>
     </defs>
@@ -2300,10 +2300,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>HeyLucasLeao/tinyshift</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Biblioteca sobre técnicas de monitoramento de data drifts e performance</div>
+                                <div class="field description">Tiny monitoring library tools to help identify when data or model performance unexpectedly changes</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2509,7 +2509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2025, 08:07:29 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2025, 09:15:34 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
